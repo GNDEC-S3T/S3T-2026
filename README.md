@@ -123,8 +123,8 @@ Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 promotes <b>inn
 | Activity | Date |
 |------|------|
 | Abstract Submission Deadline | <s>15 March 2026</s> 18 March 2026 (extended) |
-| Abstract Acceptance | 20 March 2026 |
-| Registration Deadline | 21 March 2026 |
+| Abstract Acceptance | 18 March 2026 |
+| Registration Deadline | 20 March 2026 |
 | Full Paper Submission | 25 March 2026 |
 | Final Acceptance | 30 March 2026 |
 | Congress Dates | 07–08 April 2026 |
@@ -203,7 +203,7 @@ Department of Mechanical & Production Engineering
 <p align="center">
 <b>Conference Secretariat – S3T 2026</b><br>
 Guru Nanak Dev Engineering College, Ludhiana, Punjab, India<br>
-Email: <a href="mailto:s3t2026@gndec.ac.in">s3t2026@gndec.ac.in</a><br>
+Email: <a href="mailto:s3t.gndec@gmail.com">s3t.gndec@gmail.com</a><br>
 Contact: | Dr. Yuvraj Singh (CE): +91 9815830889 | Dr. Arvind Dhingra (EE): +91 9814163429 | Dr. Chahat Jain (ECE): +91 7837005620 | Dr. Raman Kumar (MPE): +91 9855100530 |
 </p>
 
