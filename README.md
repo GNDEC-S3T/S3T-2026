@@ -22,8 +22,8 @@
 <p align="center">
 <a href="./"><b>Home</b></a> •
 <a href="tracks.md"><b>Tracks</b></a> •
-<a href="brochure.pdf"><b>Brochure</b></a> •
-<a href="template.md"><b>Full Paper Template</b></a> •
+<a href="Downloads/Brochure_S3T-2026.png"><b>Brochure</b></a> •
+<a href="Downloads/Full_Paper_Template.docx"><b>Full Paper Template</b></a> •
 <a href="submission.md"><b>Submission</b></a> •
 <a href="important_dates.md"><b>Important Dates</b></a> •
 <a href="contact.md"><b>Contact</b></a>
