@@ -47,15 +47,14 @@ Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 promotes <b>inn
 </p>
 
 ---
-
 # Conference Themes & Tracks
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="25%" style="background:#eef6ff; padding:15px; border-radius:10px;">
+<td width="25%" valign="top" style="background:#eef6ff; padding:18px;">
 
-<b style="color:#003366;">Civil Engineering</b><br>
+<b style="color:#003366;">Track 1 – Civil Engineering</b><br>
 <i>Sustainable Infrastructure & Resilient Built Environment</i>
 
 <ul>
@@ -71,9 +70,9 @@ Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 promotes <b>inn
 
 </td>
 
-<td width="25%" style="background:#fff5e6; padding:15px; border-radius:10px;">
+<td width="25%" valign="top" style="background:#fff5e6; padding:18px;">
 
-<b style="color:#cc6600;">Electrical Engineering</b><br>
+<b style="color:#cc6600;">Track 2 – Electrical Engineering</b><br>
 <i>Smart Energy Systems & Electrification</i>
 
 <ul>
@@ -89,9 +88,9 @@ Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 promotes <b>inn
 
 </td>
 
-<td width="25%" style="background:#eefbea; padding:15px; border-radius:10px;">
+<td width="25%" valign="top" style="background:#eefbea; padding:18px;">
 
-<b style="color:#2c7a2c;">Electronics & Communication</b><br>
+<b style="color:#2c7a2c;">Track 3 – Electronics & Communication</b><br>
 <i>Future Electronics: AI, IoT & 6G</i>
 
 <ul>
@@ -107,9 +106,9 @@ Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 promotes <b>inn
 
 </td>
 
-<td width="25%" style="background:#f4f0ff; padding:15px; border-radius:10px;">
+<td width="25%" valign="top" style="background:#f4f0ff; padding:18px;">
 
-<b style="color:#5a3ea1;">Mechanical & Production</b><br>
+<b style="color:#5a3ea1;">Track 4 – Mechanical & Production</b><br>
 <i>Smart Manufacturing & Sustainable Systems</i>
 
 <ul>
@@ -127,16 +126,15 @@ Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 promotes <b>inn
 
 </tr>
 </table>
-
 ---
 
 # Important Dates
 
 | Activity | Date |
 |------|------|
-| Abstract Submission Deadline | **15 March 2026** |
-| Abstract Acceptance | **18 March 2026** |
-| Registration Deadline | **20 March 2026** |
+| Abstract Submission Deadline | **~15 March 2026~ 20 March 2026 (extended)** |
+| Abstract Acceptance | **21 March 2026** |
+| Registration Deadline | **22 March 2026** |
 | Full Paper Submission | **25 March 2026** |
 | Final Acceptance | **30 March 2026** |
 | Congress Dates | **07–08 April 2026** |
@@ -145,7 +143,7 @@ Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 promotes <b>inn
 
 # Paper Submission
 
-Authors are invited to submit **4–5 page technical papers** related to the conference themes.
+Authors are invited to submit **4–5 page technical papers** related to the conference themes. **[Click here to download full paper template](Downloads/Full_Paper_Template.docx)**.
 
 Accepted submissions may include:
 
@@ -155,8 +153,7 @@ Accepted submissions may include:
 - Technology Development  
 - Analytical Studies  
 
-All accepted and presented papers will be published in the  
-**S3T 2026 Conference Proceedings (ISBN).**
+All accepted and presented papers will be published in the **S3T 2026 Conference Proceedings (ISBN).**
 
 ---
 
@@ -173,13 +170,13 @@ All accepted and presented papers will be published in the
 
 <p align="center">
 
-<a href="brochure.pdf">
+<a href="Downloads/Brochure_S3T-2026.png">
 <img src="https://img.shields.io/badge/Download-Brochure-purple?style=for-the-badge">
 </a>
 
 &nbsp;
 
-<a href="template.md">
+<a href="Downloads/Full_Paper_Template.docx">
 <img src="https://img.shields.io/badge/Download-Full%20Paper%20Template-blue?style=for-the-badge">
 </a>
 
