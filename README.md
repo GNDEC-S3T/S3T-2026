@@ -20,13 +20,14 @@
 </p>
 
 <p align="center">
-<a href="./"><b>Home</b></a> •
-<a href="tracks.md"><b>Tracks</b></a> •
+<a href="#home"><b>Home</b></a> •
+<a href="#tracks"><b>Tracks</b></a> •
 <a href="Downloads/Brochure_S3T-2026.png"><b>Brochure</b></a> •
 <a href="Downloads/Full_Paper_Template.docx"><b>Full Paper Template</b></a> •
-<a href="submission.md"><b>Submission</b></a> •
-<a href="important_dates.md"><b>Important Dates</b></a> •
-<a href="contact.md"><b>Contact</b></a>
+<a href="#submission"><b>Submission</b></a> •
+<a href="#important-dates"><b>Important Dates</b></a> •
+<a href="#organizing-committee"><b>Organizing Committee</b></a> •
+<a href="#contact"><b>Contact</b></a>
 </p>
 
 <p align="center">
@@ -35,28 +36,27 @@
 
 ---
 
-<p align="center">
+## Home <a name="home"></a>
 
+<p align="center">
 The <b>Student Congress on Smart & Sustainable Technologies (S3T 2026)</b> is a multidisciplinary academic event hosted at  
 <b>Guru Nanak Dev Engineering College, Ludhiana</b>.
 
 The congress provides a platform for <b>undergraduate students, postgraduate students, and research scholars</b> to present innovative ideas, research findings, and engineering solutions addressing real-world challenges.
 
 Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 promotes <b>innovation, sustainability, and interdisciplinary collaboration</b> among the next generation of engineers.
-
 </p>
 
 ---
-# Conference Themes & Tracks
+
+## Conference Themes & Tracks <a name="tracks"></a>
 
 <table width="100%">
 <tr>
 
-<td width="25%" valign="top" style="background:#eef6ff; padding:18px;">
-
+<td width="25%" valign="top" style="background:#eef6ff; padding:18px; border-radius:10px;">
 <b style="color:#003366;">Track 1 – Civil Engineering</b><br>
 <i>Sustainable Infrastructure & Resilient Built Environment</i>
-
 <ul>
 <li>Structural Health Monitoring</li>
 <li>Sustainable Construction Materials</li>
@@ -67,14 +67,11 @@ Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 promotes <b>inn
 <li>Disaster Mitigation</li>
 <li>Building Information Modelling</li>
 </ul>
-
 </td>
 
-<td width="25%" valign="top" style="background:#fff5e6; padding:18px;">
-
+<td width="25%" valign="top" style="background:#fff5e6; padding:18px; border-radius:10px;">
 <b style="color:#cc6600;">Track 2 – Electrical Engineering</b><br>
 <i>Smart Energy Systems & Electrification</i>
-
 <ul>
 <li>Renewable Energy Integration</li>
 <li>Smart Grids</li>
@@ -85,14 +82,11 @@ Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 promotes <b>inn
 <li>High Voltage Engineering</li>
 <li>Power System Protection</li>
 </ul>
-
 </td>
 
-<td width="25%" valign="top" style="background:#eefbea; padding:18px;">
-
+<td width="25%" valign="top" style="background:#eefbea; padding:18px; border-radius:10px;">
 <b style="color:#2c7a2c;">Track 3 – Electronics & Communication</b><br>
 <i>Future Electronics: AI, IoT & 6G</i>
-
 <ul>
 <li>Embedded Systems</li>
 <li>Internet of Things</li>
@@ -103,14 +97,11 @@ Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 promotes <b>inn
 <li>Sensor Networks</li>
 <li>Edge Computing</li>
 </ul>
-
 </td>
 
-<td width="25%" valign="top" style="background:#f4f0ff; padding:18px;">
-
+<td width="25%" valign="top" style="background:#f4f0ff; padding:18px; border-radius:10px;">
 <b style="color:#5a3ea1;">Track 4 – Mechanical & Production</b><br>
 <i>Smart Manufacturing & Sustainable Systems</i>
-
 <ul>
 <li>Smart Manufacturing</li>
 <li>Advanced Materials</li>
@@ -121,29 +112,30 @@ Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 promotes <b>inn
 <li>Computational Engineering</li>
 <li>Energy Decarbonization</li>
 </ul>
-
 </td>
 
 </tr>
 </table>
+
 ---
 
-# Important Dates
+## Important Dates <a name="important-dates"></a>
 
 | Activity | Date |
 |------|------|
-| Abstract Submission Deadline | **~15 March 2026~ 20 March 2026 (extended)** |
-| Abstract Acceptance | **21 March 2026** |
-| Registration Deadline | **22 March 2026** |
-| Full Paper Submission | **25 March 2026** |
-| Final Acceptance | **30 March 2026** |
-| Congress Dates | **07–08 April 2026** |
+| Abstract Submission Deadline | <s>15 March 2026</s> 20 March 2026 (extended) |
+| Abstract Acceptance | 21 March 2026 |
+| Registration Deadline | 22 March 2026 |
+| Full Paper Submission | 25 March 2026 |
+| Final Acceptance | 30 March 2026 |
+| Congress Dates | 07–08 April 2026 |
 
 ---
 
-# Paper Submission
+## Paper Submission <a name="submission"></a>
 
-Authors are invited to submit **4–5 page technical papers** related to the conference themes. **[Click here to download full paper template](Downloads/Full_Paper_Template.docx)**.
+Authors are invited to submit **4–5 page technical papers** related to the conference themes.  
+**[Download Full Paper Template](Downloads/Full_Paper_Template.docx)**
 
 Accepted submissions may include:
 
@@ -157,7 +149,7 @@ All accepted and presented papers will be published in the **S3T 2026 Conference
 
 ---
 
-# Conference Fee
+## Conference Fee
 
 | Category | Fee |
 |------|------|
@@ -166,7 +158,7 @@ All accepted and presented papers will be published in the **S3T 2026 Conference
 
 ---
 
-# Quick Links
+## Quick Links
 
 <p align="center">
 
@@ -182,13 +174,13 @@ All accepted and presented papers will be published in the **S3T 2026 Conference
 
 &nbsp;
 
-<a href="submission.md">
+<a href="#submission">
 <img src="https://img.shields.io/badge/Submit-Paper-green?style=for-the-badge">
 </a>
 
 &nbsp;
 
-<a href="tracks.md">
+<a href="#tracks">
 <img src="https://img.shields.io/badge/View-Conference%20Tracks-orange?style=for-the-badge">
 </a>
 
@@ -196,15 +188,28 @@ All accepted and presented papers will be published in the **S3T 2026 Conference
 
 ---
 
+## Organizing Committee <a name="organizing-committee"></a>
+
 <p align="center">
+<b>Patron / Advisor / Organizing</b>
+</p>
 
-<b>Organized by</b><br><br>
-
+<p align="center">
 Department of Civil Engineering<br>
 Department of Electrical Engineering<br>
 Department of Electronics & Communication Engineering<br>
 Department of Mechanical & Production Engineering
+</p>
 
+---
+
+## Contact <a name="contact"></a>
+
+<p align="center">
+<b>Conference Secretariat – S3T 2026</b><br>
+Guru Nanak Dev Engineering College, Ludhiana, Punjab, India<br>
+Email: <a href="mailto:s3t2026@gndec.ac.in">s3t2026@gndec.ac.in</a><br>
+Contact: | Dr. Yuvraj Singh (CE): +91 9815830889 | Dr. Arvind Dhingra (EE): +91 9814163429 | Dr. Chahat Jain (ECE): +91 7837005620 | Dr. Raman Kumar (MPE): +91 9855100530 |
 </p>
 
 <p align="center">
