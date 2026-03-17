@@ -5,7 +5,7 @@
 <h1 align="center">S3T 2026</h1>
 
 <p align="center">
-<b>Student Congress on Smart & Sustainable Technologies</b>
+<b>National Student Congress on Smart & Sustainable Technologies</b>
 </p>
 
 <p align="center">
