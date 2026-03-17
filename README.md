@@ -187,34 +187,154 @@ All accepted and presented papers will be published in the **S3T 2026 Conference
 
 ---
 
-## Organizing Committee <a name="organizing-committee"></a>
-
-<p align="center">
-Department of Civil Engineering<br>
-Department of Electrical Engineering<br>
-Department of Electronics & Communication Engineering<br>
-Department of Mechanical & Production Engineering
-</p>
+Here is your **fully formatted, clean 4-column layout with all names included** (icons removed, properly structured, and space-optimized for website/brochure):
 
 ---
 
-## Contact <a name="contact"></a>
+## Organizing Committee <a name="organizing-committee"></a>
 
-<p align="center">
-<b>Conference Secretariat – S3T 2026</b><br>
-Guru Nanak Dev Engineering College, Ludhiana, Punjab, India<br>
-Email: <a href="mailto:s3t.gndec@gmail.com">s3t.gndec@gmail.com</a><br>
-Contact: | Dr. Yuvraj Singh (CE): +91 9815830889 | Dr. Arvind Dhingra (EE): +91 9814163429 | Dr. Chahat Jain (ECE): +91 7837005620 | Dr. Raman Kumar (MPE): +91 9855100530 |
-</p>
+<div align="center">
 
-<p align="center">
-<b>Guru Nanak Dev Engineering College, Ludhiana</b>
-</p>
+### **Chief Patron**
 
-<p align="center">
-Innovation • Sustainability • Engineering for the Future
-</p>
+**Dr. Sehijpal Singh**
+*Principal, GNDEC, Ludhiana*
 
-<p align="center">
+---
+
+### **Patrons**
+
+<table width="100%">
+<tr>
+<td align="center">Dr. Jagbir Singh<br><sub>(HoD, CE)</sub></td>
+<td align="center">Dr. Munish Rattan<br><sub>(HoD, ECE)</sub></td>
+<td align="center">Dr. Kanwardeep Singh<br><sub>(HoD, EE)</sub></td>
+<td align="center">Dr. Harmeet Singh<br><sub>(HoD, MPE)</sub></td>
+</tr>
+</table>
+
+---
+
+### **Convenors**
+
+<table width="100%">
+<tr>
+<td align="center">Dr. Yuvraj Singh<br><sub>(CE)</sub></td>
+<td align="center">Dr. Gurpuneet Kaur<br><sub>(ECE)</sub></td>
+<td align="center">Dr. Chahat Jain<br><sub>(ECE)</sub></td>
+<td align="center">Dr. Arvind Dhingra<br><sub>(EE)</sub></td>
+</tr>
+<tr>
+<td align="center">Dr. Raman Kumar<br><sub>(MPE)</sub></td>
+<td align="center">Dr. Chamkaur Jindal<br><sub>(MPE)</sub></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+---
+
+### **Advisory Committee**
+
+<table width="100%">
+<tr>
+<td align="center">Dr. Harvinder Singh<br><sub>(Dean, R&C)</sub></td>
+<td align="center">Dr. Puneetpal Singh Cheema<br><sub>(CE)</sub></td>
+<td align="center">Dr. Prashant Garg<br><sub>(CE)</sub></td>
+<td align="center">Dr. Narwant Singh Grewal<br><sub>(ECE)</sub></td>
+</tr>
+<tr>
+<td align="center">Dr. Baljeet Kaur<br><sub>(ECE)</sub></td>
+<td align="center">Pf. Preetinder Singh<br><sub>(EE)</sub></td>
+<td align="center">Er. Rupinderjit Singh<br><sub>(EE)</sub></td>
+<td align="center">Dr. Jasmaninder Singh Grewal<br><sub>(MPE)</sub></td>
+</tr>
+<tr>
+<td align="center">Dr. Prem Singh<br><sub>(MPE)</sub></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+---
+
+### **Organising Committee**
+
+<table width="100%">
+<tr>
+<th>Civil Engineering</th>
+<th>Electrical Engineering</th>
+<th>Electronics & Communication</th>
+<th>Mechanical & Production</th>
+</tr>
+<tr>
+<td align="center">
+Er. Charnjeet Singh<br>
+Er. Amandeep Singh<br>
+Er. Sukhwinderpal Singh
+</td>
+<td align="center">
+Dr. Mandeep Kaur<br>
+Dr. Ranvir Kaur<br>
+Er. Balwinder Singh
+</td>
+<td align="center">
+Er. Harminder Kaur<br>
+Dr. Gurjot Kaur Walia<br>
+Er. Kuldeepak Singh
+</td>
+<td align="center">
+Dr. Jatinder Pal<br>
+Dr. Gulvir Singh<br>
+Er. Jagjit Kaur
+</td>
+</tr>
+</table>
+
+</div>
+
+## **Organized By**
+
+<div align="center">
+
+**Department of Civil Engineering**
+**Department of Electrical Engineering**
+**Department of Electronics & Communication Engineering**
+**Department of Mechanical & Production Engineering**
+
+*Guru Nanak Dev Engineering College, Ludhiana*
+
+</div>
+
+## **Contact <a name="contact"></a>**
+
+<div align="center">
+
+**Conference Secretariat – S3T 2026**
+Guru Nanak Dev Engineering College, Ludhiana, Punjab, India
+
+**Email:** [s3t.gndec@gmail.com](mailto:s3t.gndec@gmail.com)
+
+**Contact Persons:**
+Dr. Yuvraj Singh (CE): +91 9815830889
+Dr. Arvind Dhingra (EE): +91 9814163429
+Dr. Chahat Jain (ECE): +91 7837005620
+Dr. Raman Kumar (MPE): +91 9855100530
+
+</div>
+
+---
+
+<div align="center">
+
+---
+
+**Guru Nanak Dev Engineering College, Ludhiana**
+*Innovation • Sustainability • Engineering for the Future*
+
 © 2026 S3T Congress | GNDEC Ludhiana
-</p>
+
+</div>
+
+---
