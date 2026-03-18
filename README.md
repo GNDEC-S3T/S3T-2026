@@ -241,18 +241,54 @@ Dr. Jatinder Pal • Dr. Gulvir Singh • Er. Jagjit Kaur
 ## Contact <a name="contact"></a>
 
 <p align="center">
-
 <b>Conference Secretariat – S3T 2026</b><br>
-Guru Nanak Dev Engineering College, Ludhiana  
-
-Email: s3t.gndec@gmail.com  
-
-Dr. Yuvraj Singh: +91 9815830889  
-Dr. Arvind Dhingra: +91 9814163429  
-Dr. Chahat Jain: +91 7837005620  
-Dr. Raman Kumar: +91 9855100530  
-
+Guru Nanak Dev Engineering College, Ludhiana
 </p>
+
+<br>
+
+<table align="center" width="60%">
+<tr>
+
+<td align="center" style="background:#f4f8ff; padding:15px; border-radius:10px;">
+<b>📧 Email</b><br><br>
+<a href="mailto:s3t.gndec@gmail.com">s3t.gndec@gmail.com</a>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table align="center" width="80%">
+<tr>
+
+<td align="center" style="background:#eef6ff; padding:15px; border-radius:10px;">
+<b>Dr. Yuvraj Singh</b><br>
+📞 +91 9815830889
+</td>
+
+<td align="center" style="background:#fff5e6; padding:15px; border-radius:10px;">
+<b>Dr. Arvind Dhingra</b><br>
+📞 +91 9814163429
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="background:#eefbea; padding:15px; border-radius:10px;">
+<b>Dr. Chahat Jain</b><br>
+📞 +91 7837005620
+</td>
+
+<td align="center" style="background:#f4f0ff; padding:15px; border-radius:10px;">
+<b>Dr. Raman Kumar</b><br>
+📞 +91 9855100530
+</td>
+
+</tr>
+</table>
 
 ---
 
