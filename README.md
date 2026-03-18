@@ -18,8 +18,10 @@ Guru Nanak Dev Engineering College, Ludhiana
 
 <p align="center">
 <a href="#about"><b>About</b></a> •
+<a href="Downloads/Brochure_S3T-2026.png"><b>Brochure</b></a> •
 <a href="#tracks"><b>Tracks</b></a> •
 <a href="#submission"><b>Submission</b></a> •
+<a href="Downloads/Full_Paper_Template.docx"><b>Full Length Paper Template</b></a> •
 <a href="#important-dates"><b>Important Dates</b></a> •
 <a href="#registration"><b>Registration</b></a> •
 <a href="#committee"><b>Committee</b></a> •
@@ -84,6 +86,7 @@ Aligned with the vision of **Viksit Bharat @ 2047**, the congress promotes:
 <li>VLSI</li>
 <li>5G/6G</li>
 <li>Biomedical Electronics</li>
+<li>Emerging Technologies in Electronics & Communication</li>  
 </ul>
 </td>
 
@@ -120,12 +123,6 @@ Authors are invited to submit **4–5 page technical papers** aligned with confe
 <b>Abstract Submission</b><br>
 <a href="https://tinyurl.com/GNDEC-S3T-2026">Submit Abstract</a><br>
 <img src="assets/QRcode_abstract.png" width="130">
-</p>
-
-<p align="center">
-<b>Registration Form and Payment Details Submission</b><br>
-<a href="https://tinyurl.com/GNDEC-S3T-2026-Registration">Register and Submit Payment Details</a><br>
-<img src="assets/QRcode_Registration.png" width="130">
 </p>
 
 <p align="center">
@@ -209,6 +206,35 @@ Er. Harminder Kaur • Dr. Gurjot Kaur Walia • Er. Kuldeepak Singh
 
 **Mechanical & Production:**  
 Dr. Jatinder Pal • Dr. Gulvir Singh • Er. Jagjit Kaur  
+
+---
+## Quick Links
+
+<p align="center">
+
+<a href="Downloads/Brochure_S3T-2026.png">
+<img src="https://img.shields.io/badge/Download-Brochure-purple?style=for-the-badge">
+</a>
+
+&nbsp;
+
+<a href="Downloads/Full_Paper_Template.docx">
+<img src="https://img.shields.io/badge/Download-Full%20Paper%20Template-blue?style=for-the-badge">
+</a>
+
+&nbsp;
+
+<a href="#submission">
+<img src="https://img.shields.io/badge/Submit-Paper-green?style=for-the-badge">
+</a>
+
+&nbsp;
+
+<a href="#tracks">
+<img src="https://img.shields.io/badge/View-Conference%20Tracks-orange?style=for-the-badge">
+</a>
+
+</p>
 
 ---
 
