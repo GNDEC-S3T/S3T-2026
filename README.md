@@ -56,12 +56,14 @@ Aligned with the vision of **Viksit Bharat @ 2047**, the congress promotes:
 <b style="color:#003366;">Civil Engineering</b><br>
 <i>Sustainable Infrastructure</i>
 <ul>
-<li>Structural Health Monitoring</li>
-<li>Durable Construction Materials</li>
-<li>Smart Cities</li>
-<li>Geotechnical Engineering</li>
-<li>Transportation Systems</li>
-<li>Water & Environmental Engineering</li>
+<li>Structural Health Monitoring &Retrofitting</li>
+<li>Durable & Sustainable Construction Materials</li>
+<li>Smart Cities & Urban Infrastructure</li>
+<li>Geotechnical Engineering & Ground Improvement Techniques</li>
+<li>Transportation Engineering & Smart Mobility</li>
+<li>Water Resources & Environmental Engineering</li>
+<li>Distaster Mitigation & Structural Safety</li>
+<li>Building Information Modelling</li>
 </ul>
 </td>
 
@@ -69,11 +71,13 @@ Aligned with the vision of **Viksit Bharat @ 2047**, the congress promotes:
 <b style="color:#cc6600;">Electrical Engineering</b><br>
 <i>Smart Energy Systems</i>
 <ul>
-<li>Renewable Energy</li>
-<li>Smart Grids</li>
-<li>Energy Storage</li>
-<li>Power Electronics</li>
-<li>Electric Vehicles</li>
+<li>Renewable Energy Systems & Integration</li>
+<li>Smart Grids & Energy Storage</li>
+<li>Power Electronics & Devices</li>
+<li>Electric Vehicles & Charging Infrastructure</li>
+<li>Energy Efficiency and Sustainability</li>
+<li>High Voltage Engineering & Power Systems</li>
+<li>Smart & Efficient Electrical Machines</li>
 </ul>
 </td>
 
@@ -81,12 +85,13 @@ Aligned with the vision of **Viksit Bharat @ 2047**, the congress promotes:
 <b style="color:#2c7a2c;">Electronics & Communication</b><br>
 <i>AI, IoT & Communication</i>
 <ul>
-<li>Embedded Systems</li>
-<li>AI/ML Applications</li>
-<li>VLSI</li>
-<li>5G/6G</li>
-<li>Biomedical Electronics</li>
-<li>Emerging Technologies in Electronics & Communication</li>  
+<li>Sustainable & Green Electronics</li>
+<li>Embedded Systems & IoT</li>
+<li>AI/ML in Electronics</li>
+<li>VLSI & Nanoelectronics</li>
+<li>Biomedical & Healthcare Electronics</li>
+<li>5G and 6G communication technologies in RF and optics</li>
+<li>Emerging Technologies</li>  
 </ul>
 </td>
 
@@ -94,11 +99,13 @@ Aligned with the vision of **Viksit Bharat @ 2047**, the congress promotes:
 <b style="color:#5a3ea1;">Mechanical & Production</b><br>
 <i>Smart Manufacturing</i>
 <ul>
-<li>Automation & Robotics</li>
-<li>Thermal Systems</li>
-<li>Advanced Manufacturing</li>
-<li>Simulation & Modelling</li>
-<li>Sustainable Design</li>
+<li>Smart & Digital Manufacturing</li>
+<li>Advanced & Sustainable Materials Engineering</li>
+<li>Renewable & Thermal Energy Systems</li>
+<li>Sustainable Product Design & Lifecycle Engineering</li>
+<li>Robotics, Mechatronics & Intelligent Automation</li>
+<li>Computational Engineering & Multiphysics Simulation</li>
+<li>Energy Efficiency & Decarbonation in Mechanical Systems</li>
 </ul>
 </td>
 
