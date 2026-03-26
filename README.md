@@ -157,7 +157,7 @@ All accepted and presented papers will be published in **S3T 2026 Proceedings (I
 |----------|------|
 | Abstract Submission | ~~15 March 2026~~ **22 March 2026 (Extended)** |
 | Acceptance Notification | 23 March 2026 |
-| Registration Deadline | ~~15 March 2026~~ **30 March 2026 (Extended)** |
+| Registration Deadline | ~~24 March 2026~~ **30 March 2026 (Extended)** |
 | Full Paper Submission | 30 March 2026 |
 | Final Acceptance | 01 April 2026 |
 | Conference Dates | 07–08 April 2026 |
