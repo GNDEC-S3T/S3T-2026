@@ -22,6 +22,7 @@ Guru Nanak Dev Engineering College, Ludhiana
 <a href="#tracks"><b>Tracks</b></a> •
 <a href="#submission"><b>Submission</b></a> •
 <a href="Downloads/Full_Paper_Template.docx"><b>Full Length Paper Template</b></a> •
+<a href="#presentation"><b>Presentation</b></a> •
 <a href="#important-dates"><b>Important Dates</b></a> •
 <a href="#registration"><b>Registration</b></a> •
 <a href="#committee"><b>Committee</b></a> •
@@ -148,6 +149,42 @@ All submissions must be original and adhere to standard academic integrity norms
 **[Download Full Paper Template](Downloads/Full_Paper_Template.docx)**  
 
 All accepted and presented papers will be published in **S3T 2026 Proceedings (ISBN).**
+
+---
+
+## Presentation Guidelines <a name="presentation"></a>
+
+Authors presenting at **S3T 2026** are required to follow the guidelines below to ensure smooth and effective conduct of sessions.
+
+### Time Allocation
+- Each presentation: **8 minutes (max.)**
+- Discussion / Q&A: **2 minutes**
+- Strict adherence to time limits is mandatory
+
+### Reporting & Attendance
+- Authors must report at the venue **at least 30 minutes before the session**
+- Only **registered authors** will be allowed to present
+- **Each author must register individually** to be eligible for a presentation certificate
+
+### Presentation Preparation
+- Authors are required to prepare their presentation using the official template:
+  
+👉 [Download Presentation Template](https://docs.google.com/presentation/d/113EjYMo0PI0YhLXF1xzPueJW51pqcRHK/edit?usp=sharing&ouid=102510137308323318501&rtpof=true&sd=true)
+
+- PPT/PDF must be submitted to the session coordinator **before the session begins**
+
+### Best Paper Award
+- Each session will have **one Best Paper Award**
+- Evaluation will be based on:
+  - Technical quality and originality
+  - Clarity of presentation
+  - Relevance to the theme
+  - Response to questions
+
+### Important Instructions
+- Ensure the content is **original and plagiarism-compliant**
+- Maintain **professional presentation style**
+- Avoid excessive text; use figures, charts, and visuals where possible
 
 ---
 
