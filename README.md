@@ -195,9 +195,11 @@ Authors presenting at **S3T 2026** are required to follow the guidelines below t
 | Abstract Submission | ~~15 March 2026~~ **22 March 2026 (Extended)** |
 | Acceptance Notification | 23 March 2026 |
 | Registration Deadline | ~~24 March 2026~~ **30 March 2026 (Extended)** |
-| Full Paper Submission | 30 March 2026 |
-| Final Acceptance | 01 April 2026 |
+| Full Paper Submission | ~~30 March 2026~~ **3 April 2026 (Extended)**  |
 | Conference Dates | 07–08 April 2026 |
+
+### Note
+>Authors who have received the abstract acceptance email are eligible to present their paper, provided they have completed the registration by paying the fee and filling out the registration form. However, publication of the paper in the ISBN conference proceedings will be subject to quality assessment and plagiarism checks, post the conference.
 
 ---
 
