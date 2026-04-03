@@ -186,6 +186,9 @@ Authors presenting at **S3T 2026** are required to follow the guidelines below t
 - Maintain **professional presentation style**
 - Avoid excessive text; use figures, charts, and visuals where possible
 
+### Note
+>Authors who have received the abstract acceptance email are eligible to present their paper, provided they have completed the registration by paying the fee and filling out the registration form. However, publication of the paper in the ISBN conference proceedings will be subject to quality assessment and plagiarism checks, post the conference.
+
 ---
 
 ## Important Dates <a name="important-dates"></a>
