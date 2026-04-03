@@ -22,7 +22,7 @@ Guru Nanak Dev Engineering College, Ludhiana
 <a href="#tracks"><b>Tracks</b></a> •
 <a href="#submission"><b>Submission</b></a> •
 <a href="Downloads/Full_Paper_Template.docx"><b>Full Length Paper Template</b></a> •
-<a href="#presentation"><b>Presentation</b></a> •
+<a href="#presentation"><b>Presentation Guidelines</b></a> •
 <a href="#important-dates"><b>Important Dates</b></a> •
 <a href="#registration"><b>Registration</b></a> •
 <a href="#committee"><b>Committee</b></a> •
