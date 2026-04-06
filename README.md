@@ -22,6 +22,7 @@ Guru Nanak Dev Engineering College, Ludhiana
 <a href="#tracks"><b>Tracks</b></a> •
 <a href="#submission"><b>Submission</b></a> •
 <a href="Downloads/Full_Paper_Template.docx"><b>Full Length Paper Template</b></a> •
+<a href="Downloads/S3T_2026_Session Schedule.pdf"><b>Session Schedule</b></a> •
 <a href="#presentation"><b>Presentation Guidelines</b></a> •
 <a href="#important-dates"><b>Important Dates</b></a> •
 <a href="#registration"><b>Registration</b></a> •
@@ -165,6 +166,15 @@ Authors presenting at **S3T 2026** are required to follow the guidelines below t
 - Authors must report at the venue **at least 30 minutes before the session**
 - Only **registered authors** will be allowed to present
 - **Each author must register individually** to be eligible for a presentation certificate
+
+### Session Schedule
+
+👉 **[Download Inaugural and Session Schedule](Downloads/S3T_2026_Session Schedule.pdf)**
+
+All participants are requested to carefully note their respective session timings and adhere strictly to the schedule.
+
+Attendance will be marked **15 minutes before the start of each session**, and authors must report to the venue accordingly.
+
 
 ### Presentation Preparation
 - Authors are required to prepare their presentation using the official template:
